@@ -1,5 +1,7 @@
 ## 来源
 
+每日推荐: https://github.com/azl397985856/daily-featured
+
 codedump:  https://www.codedump.info/
 
 京东惊喜团队：https://github.com/wecteam/weekly  
