@@ -1,5 +1,7 @@
 ## 来源
 
+腾讯新闻团队：https://github.com/tnfe/TNT-Weekly  
+
 每日推荐: https://github.com/azl397985856/daily-featured
 
 codedump:  https://www.codedump.info/
